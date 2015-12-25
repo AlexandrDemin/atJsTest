@@ -1,0 +1,11 @@
+.project-selector-ajax {
+	width: auto;
+	min-width: 300px;
+}
+.select2-result-repository__avatar img {
+	max-width: 64px;
+}
+.content {
+	min-height: 100vh;
+	padding: 70px 20px;
+}
